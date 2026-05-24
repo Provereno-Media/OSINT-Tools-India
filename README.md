@@ -62,6 +62,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ### Avia
 - [Ministry of Civil Aviation](https://www.civilaviation.gov.in)
 - [Civil Aviation Directorate](https://www.dgca.gov.in/digigov-portal/)
+- [Phantom Tide](https://phantom.labs.jamessawyer.co.uk). Public monitoring map for restricted airspace, maritime activity and incidents
 ### Maritime
 - [Indian Register of Shipping](https://www.irclass.org/?)
 - [Directorate General of Shipping](https://www.dgshipping.gov.in/Content/PageUrl.aspx?page_name=ShipManualChap6)
