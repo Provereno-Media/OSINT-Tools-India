@@ -1,5 +1,5 @@
 # OSINT-Tools-India
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg" alt="India_FLAG"/>
+<img src="https://commons.wikimedia.org/wiki/File:Flag_of_India.svg" alt="India_FLAG"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of India. Most of the resources and tools have versions in Hindi and English. Some websites are not available over VPN, and some are not available from outside of India, so use an Indian IP address. 
 
 ## Contributions
