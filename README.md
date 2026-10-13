@@ -1,6 +1,6 @@
 # OSINT-Tools-India
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/2560px-Flag_of_India.svg.png" alt="India_FLAG"/>
-A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of India. Most of the resources and tools have versions in Hindi and English. Some websites are not available over VPN, and some are not available from outside of India, so use an Indian IP-address. 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg" alt="India_FLAG"/>
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of India. Most of the resources and tools have versions in Hindi and English. Some websites are not available over VPN, and some are not available from outside of India, so use an Indian IP address. 
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
@@ -46,6 +46,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Taxpayer Search](https://services.gst.gov.in/services/searchtp). GSTIN/UIN of the Taxpayer required
 - [GST Number Search Tool - GSTIN Verification Online](https://cleartax.in/gst-number-search/)
 - [India Business Map Search](https://www.mapsofindia.com/whitepages/)
+- [Tesari First Resort](https://tesari.ai/) — Tesari is an all-source intelligence platform designed for high-stakes environments, with applications ranging from trade compliance and supply chain illumination to financial crime investigations and complex litigation. It is a paid platform that offers a Tech for Good (Community Impact) Programme for OSINT practitioners and journalists. *Lang: EN.*
 
 ## Maps
 - [India Online Maps Portal](https://onlinemaps.surveyofindia.gov.in)
